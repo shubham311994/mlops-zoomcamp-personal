@@ -1,15 +1,5 @@
 # MLOps Zoomcamp
 
-<p align="center">
-  <a href="https://airtable.com/shrCb8y6eTbPKwSTL" target="_blank">
-    <img src="images/IMG_20230323_134059_927.png">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://airtable.com/shrCb8y6eTbPKwSTL"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
-
 Our MLOps Zoomcamp course
 
 - Sign up here: https://airtable.com/shrCb8y6eTbPKwSTL
